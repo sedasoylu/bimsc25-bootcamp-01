@@ -1,0 +1,13 @@
+div {
+    background-color: rgb(255, 0, 0, 0.278);
+    padding: 10px;
+    margin: 1px}
+}
+#redDiv {
+    background-color: rgb(255, 0, 0, 0.278);
+    border: 1px solid red;
+    background-color: yellow;
+
+
+.heading {
+    font-family: 'Courier New', Courier, monospace; font-weight: bold; color: greenyellow;}
